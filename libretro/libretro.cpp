@@ -36,8 +36,8 @@ static const struct retro_subsystem_memory_info gb1_memory[] = {
 };
 
 static const struct retro_subsystem_memory_info gb2_memory[] = {
-    { "srm", RETRO_MEMORY_GAMEBOY_2_SRAM },
-    { "rtc", RETRO_MEMORY_GAMEBOY_2_RTC },
+    { "sr2", RETRO_MEMORY_GAMEBOY_2_SRAM },
+    { "rt2", RETRO_MEMORY_GAMEBOY_2_RTC },
 };
 
 static const struct retro_subsystem_rom_info gb_roms[] = {
